@@ -1,0 +1,30 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+
+}
+.left{
+    width: 200px;
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+.middle{
+    flex: 1;
+    margin-right: 100px;
+    margin-left: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.middle{
+    flex: 1;
+    margin-right: 100px;
+    margin-left: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
